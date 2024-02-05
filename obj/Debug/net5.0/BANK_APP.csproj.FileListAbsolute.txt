@@ -1,0 +1,16 @@
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\bin\Debug\net5.0\BANK_APP.exe
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\bin\Debug\net5.0\BANK_APP.deps.json
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\bin\Debug\net5.0\BANK_APP.runtimeconfig.json
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\bin\Debug\net5.0\BANK_APP.runtimeconfig.dev.json
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\bin\Debug\net5.0\BANK_APP.dll
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\bin\Debug\net5.0\BANK_APP.pdb
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\obj\Debug\net5.0\BANK_APP.csproj.AssemblyReference.cache
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\obj\Debug\net5.0\BANK_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\obj\Debug\net5.0\BANK_APP.AssemblyInfoInputs.cache
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\obj\Debug\net5.0\BANK_APP.AssemblyInfo.cs
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\obj\Debug\net5.0\BANK_APP.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\obj\Debug\net5.0\BANK_APP.dll
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\obj\Debug\net5.0\ref\BANK_APP.dll
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\obj\Debug\net5.0\BANK_APP.pdb
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\obj\Debug\net5.0\BANK_APP.genruntimeconfig.cache
+C:\Users\THINKPAD_PC\Desktop\BANK_APP\obj\Debug\net5.0\refint\BANK_APP.dll
